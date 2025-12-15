@@ -1,0 +1,37 @@
+{
+    "config": {
+        "name": "Lucy Krohn",
+        "course_number": "CIS 2020-001",
+        "course_description": "Introduction to Python Programming",
+        "profile_info": "I am a junior majoring in CIS at CSU Stanislaus, with a passion for programming and web development. After graduating and receiving my bachelor\u2019s degree, I hope to find a career in a tech-related field and possibly seek higher education to continue working on these skills.",
+        "linkedin": "https://csustan.joinhandshake.com/profiles/cu89xp",
+        "theme": "solar",
+        "profile_image": "/static/project_images/d9abcb5d-1015-4838-adb3-95d790bad755.jpg"
+    },
+    "projects": [
+        {
+            "id": 1765762624045,
+            "image": "/static/project_images/a8eefea1-6179-457a-975f-c2849390d490.png",
+            "title": "Weather App",
+            "website_url": "https://weather-project-sqgh.onrender.com",
+            "github_url": "https://github.com/LucyK05/weather_project.git",
+            "description": "This weather app allows the user to input their location or any other desired region and find the weather forecast for the current day and the upcoming week. The user is able to input any zipcode, city, or country, both nationally and internationally, and find the 8-day forecast for that area. The app allows for multiple searches and for the user to switch between Celsius and Fahrenheit for maximum ease of use."
+        },
+        {
+            "id": 1765762668316,
+            "image": "/static/project_images/a51572e6-01b3-4834-8697-327c3b4997ab.png",
+            "title": "Calendar App",
+            "website_url": "https://calendar-project-e8hj.onrender.com",
+            "github_url": "https://github.com/LucyK05/calendar_project.git",
+            "description": "This calendar app gives the user access to a monthly calendar where they can write down their daily tasks or events. The user can choose the name, timeframe (if applicable), and color of the event to help keep their planner organized. While the user can navigate to any month, the calendar will always open to and highlight the current day to ensure the user is up to date."
+        },
+        {
+            "id": 1765762707409,
+            "image": "/static/project_images/dfc1ce3b-f4e7-4e17-8358-b4c965d5e9b6.png",
+            "title": "Drawing App",
+            "website_url": "https://drawing-project-4dha.onrender.com",
+            "github_url": "https://github.com/LucyK05/drawing_project.git",
+            "description": "This drawing app gives the user access to a digital canvas where they can create custom notes or fun doodles with their mouse. The canvas tab provides multiple options for pen colors and line thicknesses to allow for the most creativity. Once finished, the user can choose to clear the canvas or save their drawing in the provided gallery tab, where it can be deleted at any time."
+        }
+    ]
+}
