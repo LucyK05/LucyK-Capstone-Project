@@ -15,15 +15,15 @@
             "title": "Weather App",
             "website_url": "https://weather-project-sqgh.onrender.com",
             "github_url": "https://github.com/LucyK05/weather_project.git",
-            "description": "This weather app allows the user to input their location or any other desired region and find the weather forecast for the current day and the upcoming week. The user is able to input any zipcode, city, or country, both nationally and internationally, and find the 8-day forecast for that area. The app allows for multiple searches and for the user to switch between Celsius and Fahrenheit for maximum ease of use."
+            "description": "This weather app allows the user to view the weather forecast of any desired location for the current day and the upcoming week. The user is able to input any zipcode, city, or country and find the 8-day forecast for that area, as well as switch between Fahrenheit and Celsius with a provided button for maximum ease of use. The app allows for locations to be saved and stored in a separate tab, such as your home or workplace, so the user can quickly view multiple forecasts at once."
         },
         {
             "id": 1765762668316,
             "image": "/static/project_images/a51572e6-01b3-4834-8697-327c3b4997ab.png",
             "title": "Calendar App",
-            "website_url": "https://calendar-project-e8hj.onrender.com",
+            "website_url": "https://calendar-project-042j.onrender.com",
             "github_url": "https://github.com/LucyK05/calendar_project.git",
-            "description": "This calendar app gives the user access to a monthly calendar where they can write down their daily tasks or events. The user can choose the name, timeframe (if applicable), and color of the event to help keep their planner organized. While the user can navigate to any month, the calendar will always open to and highlight the current day to ensure the user is up to date."
+            "description": "This calendar app gives the user access to a monthly calendar where they can write down their daily tasks or events. The user can choose the name, timeframe (if applicable), and color of the event to help keep their planner organized and easy to read. While the user can navigate to any month, the calendar will always open to and highlight the current day to ensure the user is up to date. All added events and tasks can also be viewed in the provided events tab so that the user can see all of their plans at a glance."
         },
         {
             "id": 1765762707409,
